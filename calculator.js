@@ -50,7 +50,7 @@ function sub(v1, v2) {
 function div(v1, v2) {}
 
 // retorna o valor da multiplicação entre os dois parâmetros
-// Erson
+// Everson
 function mult(v1, v2) { 
     return v1 * v2;
 }
